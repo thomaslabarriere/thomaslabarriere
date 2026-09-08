@@ -1,0 +1,28 @@
+GITHUB — Settings > Public profile
+----------------------------------
+Bio       I turn what an expert knows into a system that decides.
+Name      Thomas Labarriere
+Location  Paris / Bordeaux, France
+Website   https://thomaslabarriere.com     (a remplir quand le site sera republie)
+Company   [laisser VIDE — voir la note en bas]
+Photo     la meme que sur le site et LinkedIn
+
+SITE PERSONNEL — thomaslabarriere.com
+-------------------------------------
+Je transforme le savoir d'un expert en système qui décide.
+
+LINKEDIN
+--------
+I turn what an expert knows into a system that decides.
+
+VARIANTES ANGLAISES
+-------------------
+Plus litterale  : I turn an expert's knowledge into a system that decides.
+Plus haute      : I turn a world-class expert's method into a system that decides.
+
+NOTE SUR LE CHAMP "COMPANY"
+---------------------------
+Le laisser vide. Y mettre MetaLab Ventures OU affiche "@metalab" a cote de ton nom
+partout sur GitHub, ce qui signale un fondateur en activite, donc quelqu'un qui partira.
+C'est exactement le doute que la separation des identites cherche a eviter.
+MetaLab reste dans le dossier de candidature et se raconte en entretien.

@@ -25,3 +25,11 @@ the right reason.*
 **[unwired](https://github.com/thomaslabarriere/unwired)** · finds code that is written,
 tested, and never actually reached. On my own repository it surfaced a comparison that had
 been dead for months, under 10,858 green tests.
+
+**[agent-pipeline](https://github.com/thomaslabarriere/agent-pipeline)** · a multi-agent
+delivery pipeline, and the production-readiness review that found path traversal through
+LLM output in my own design.
+
+*Most of my work lives in private repositories, under client agreements, and its commits
+are authored by the agents that wrote them. What is public here is what I built to keep
+those agents honest.*
