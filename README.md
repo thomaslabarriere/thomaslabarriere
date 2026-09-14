@@ -1,4 +1,4 @@
-# Thomas Labarrière
+# Thomas Labarriere
 
 **AI Engineer.** I build LLM agents, and the instruments that prove they hold up.
 
